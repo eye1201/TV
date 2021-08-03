@@ -1,0 +1,337 @@
+#EXTM3U
+
+#BNT
+#EXTINF:-1,tvg-id="БНТ1" tvg-logo="http://tv.bnt.bg/assets/images/bnt1-home.jpg" tvg-name="БНТ 1" group-title="Политематични",БНТ 1
+#https://lb-ts.cdn.bg/bnt1/fls/bnt1HD_abr.stream/playlist.m3u8?at=50246191ca6535d2e1be38dfeb746569
+https://mx86.gledaitv.icu/hls/hd-bnt-1-hd.m3u8?e=1628022049&hash=od7geGbRoyPHCIVcHSoHvw
+
+
+#EXTINF:-1,tvg-id="БНТ2" tvg-logo="http://tv.bnt.bg/assets/images/bnt2-home.jpg" tvg-name="БНТ 2" group-title="Политематични",БНТ 2
+#https://e16-ts.cdn.bg/bnt1/fls/bnt2.stream/at=O0M9OTEuMjE1LjE1Mi4xMjtFPTE2MjQyNzAwOTI7QT0xO0s9MztQPTAxMTEwO1M9OTZiMWUyOWZiOTdjMDZhODdlOTcxOWQyNGJhNGU0ODYxZGJjZTZiZQ==/playlist.m3u8
+https://s115.sedemosmitv.com/hls/bnt-2/index.m3u8?e=1628022957&hash=F-9ThJ6pSyHct7zDTUJr8A
+
+#EXTINF:-1,tvg-id="БНТ3" tvg-logo="http://tv.bnt.bg/assets/images/bnt3-home.jpg" tvg-name="БНТ 3" group-title="Политематични",БНТ 3
+https://lb-ts.cdn.bg/bnt1/fls/bntHD_abr.stream/playlist.m3u8?at=50246191ca6535d2e1be38dfeb746569
+
+#EXTINF:-1,tvg-id="БНТ4" tvg-logo="http://tv.bnt.bg/assets/images/bnt4-home.jpg" tvg-name="БНТ 4" group-title="Политематични",БНТ 4
+#https://e16-ts.cdn.bg/bnt1/fls/bntW.stream/at=O0M9OTEuMjE1LjE1Mi4xMjtFPTE2MjQyNzAyMjk7QT0xO0s9MztQPTAxMTEwO1M9MDQ1NTFiYjRlMTFkZTA4YjBmN2FhZDRkZjdkYWNhMWZjYjUxYjRjMg==/playlist.m3u8
+https://s115.sedemosmitv.com/hls/bnt-4/index.m3u8?e=1628023042&hash=77uPghHWgcQAAbHhd_wL5g
+
+#BTV
+#EXTINF:-1,tvg-id="bTV" tvg-logo="http://www.predavatel.com/bg/tv/btv_images/new_btv2.png" tvg-name="bTV" group-title="Политематични", bTV
+#https://en5.sof.btv.bg/alpha/alpha/playlist.m3u8?btokenendtime=1624269850&btokenstarttime=1624250950&btokenhash=ar6mILsV7RWctyLJhCDMnjQyBcIJe1clNUe2A1I9nA8=
+https://s92.sedemosmitv.com/hls/hd-btv-hd.m3u8?e=1628022664&hash=sBSQk6yAwVMCnFgBiwLPlg
+
+#EXTINF:-1,tvg-id="bTVCinema" tvg-logo="https://logos.kodibg.org/btvcinema.png" tvg-name="btv Cinema" group-title="Филми",btv Cinema
+https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
+
+#EXTINF:-1,tvg-id="bTVComedy" tvg-logo="https://logos.kodibg.org/btvcomedy.png" tvg-name="btv Comedy" group-title="Филми",btv Comedy
+https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
+
+#EXTINF:-1,tvg-id="bTVAction" tvg-logo="https://logos.kodibg.org/btvaction.png" tvg-name="btv Action" group-title="Филми",btv Action
+https://mx86.gledaitv.icu/hls/hd-btv-action-hd.m3u8?e=1628023095&hash=65Ncv5eLtmQhITH5pFkfoA
+
+#NOVA
+
+#EXTINF:-1,tvg-id="novaTV" tvg-logo="https://nstatic.nova.bg/files/nova/images/nova-logo.svg" tvg-name="NOVA TV" group-title="Политематични",NOVA TV
+https://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_1080/chunks.m3u8
+
+#EXTINF:-1,tvg-id="NovaNews" tvg-logo="https://logos.kodibg.org/novanews.png" tvg-name="Nova News" group-title="Новини",Nova News
+#https://cdn1.mobiletv.bg/T3/kanal3/kanal3_794613_850k.m3u8
+https://mx86.gledaitv.icu/hls/hd-nova-news-hd.m3u8?e=1628023534&hash=_v9XtHFnHYSj11hErN-Sjg
+
+#EXTINF:-1,tvg-id="KinoNova" tvg-logo="https://logos.kodibg.org/kinonova.png" tvg-name="KINO NOVA" group-title="Филми",KINO NOVA
+#https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8
+https://s100.sedemosmitv.com/hls/kino-nova/index.m3u8?e=1628023458&hash=RIhgjgKVfApyJNNruO450w
+
+#EXTINF:-1,tvg-id="Diema" tvg-logo="https://logos.kodibg.org/diema.png" tvg-name="DIEMA" group-title="Филми",DIEMA
+https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8
+
+#EXTINF:-1,tvg-id="Diema" tvg-logo="https://logos.kodibg.org/diema.png" tvg-name="DIEMA_2" group-title="Филми",DIEMA_2
+https://s115.sedemosmitv.com/hls/diema/index.m3u8?e=1628023584&hash=f2F2Z3N_8lTSHq5OFoQZmA
+
+
+
+#FOX
+#EXTINF:-1,tvg-id="FOX" tvg-logo="https://logos.kodibg.org/fox.png" tvg-name="FOX" group-title="Филми",FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+
+#EXTINF:-1,tvg-id="FOX" tvg-logo="https://logos.kodibg.org/fox.png" tvg-name="FOX HD" group-title="Филми",FOX HD
+https://s92.sedemosmitv.com/hls/hd-fox-hd.m3u8?e=1628024963&hash=42oCyJHLfOJiB02UmKBx7Q
+
+#EXTINF:-1,tvg-id="FOXLife" tvg-logo="https://logos.kodibg.org/foxlife.png" tvg-name="FOX Life" group-title="Филми",FOX Life
+https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
+
+#EXTINF:-1,tvg-id="FOXLife" tvg-logo="https://logos.kodibg.org/foxlife.png" tvg-name="FOX Life HD" group-title="Филми",FOX Life HD
+https://s92.sedemosmitv.com/hls/hd-fox-life-hd.m3u8?e=1628025240&hash=LXnsY6hjw48L-WYXQAnp2Q
+
+#EXTINF:-1,tvg-id="FOXCrime" tvg-logo="https://logos.kodibg.org/foxcrime.png" tvg-name="FOX Crime" group-title="Филми",FOX Crime
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+
+#EXTINF:-1,tvg-id="FOXCrime" tvg-logo="https://logos.kodibg.org/foxcrime.png" tvg-name="FOX Crime HD" group-title="Филми",FOX Crime HD
+https://s115.sedemosmitv.com/hls/hd-fox-crime-hd.m3u8?e=1628025040&hash=FwUNRJ9FMqTZG23lvWIfEQ
+
+
+
+#AXN
+#EXTINF:-1,tvg-id="AXN" tvg-logo="https://logos.kodibg.org/axn.png" tvg-name="AXN" group-title="Филми",AXN
+https://cdn1.mobiletv.bg/T13/axn_archive/axn_794613.m3u8
+#EXTINF:-1,tvg-id="AXN" tvg-logo="https://logos.kodibg.org/axn.png" tvg-name="AXN_2" group-title="Филми",AXN_2
+https://s76.gledaitv.co/hls/axn/index.m3u8?e=1628025323&hash=iMLQUOs7Vobuk4PVWaqPeg
+
+
+
+#BulgariaOnAir
+#EXTINF:-1,tvg-id="BulgariaOnAir" tvg-logo="https://logos.kodibg.org/bulgariaonair.png" tvg-name="Bulgaria On Air_1" group-title="Новини",Bulgaria On Air_1
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+
+#EXTINF:-1,tvg-id="BulgariaOnAir" tvg-logo="https://logos.kodibg.org/bulgariaonair.png" tvg-name="Bulgaria On Air_2" group-title="Новини",Bulgaria On Air_2
+http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8
+
+#EXTINF:-1,tvg-id="BulgariaOnAir" tvg-logo="https://logos.kodibg.org/bulgariaonair.png" tvg-name="Bulgaria On Air_3" group-title="Новини",Bulgaria On Air_3
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+
+#EXTINF:-1,tvg-id="BulgariaOnAir" tvg-logo="https://logos.kodibg.org/bulgariaonair.png" tvg-name="Bulgaria On Air_4" group-title="Новини",Bulgaria On Air_4
+https://cdn1.mobiletv.bg/T3/bg_on_air/bg_on_air_794613_850k.m3u8
+
+#EXTINF:-1,tvg-id="BulgariaOnAir" tvg-logo="https://logos.kodibg.org/bulgariaonair.png" tvg-name="Bulgaria On Air_5" group-title="Новини",Bulgaria On Air_5
+http://ios.cdn.bg:2006/fls/bonair.stream/chunklist_w924548550.m3u8
+
+
+#MUSIC
+
+#Planeta
+#EXTINF:-1,tvg-id="Planeta" tvg-logo="https://logos.kodibg.org/planeta.png" tvg-name="Планета" group-title="Музика",Планета
+https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
+#EXTINF:-1,tvg-id="Planeta" tvg-logo="https://logos.kodibg.org/planeta.png" tvg-name="Планета HD" group-title="Музика",Планета HD
+https://mx86.gledaitv.icu/hls/hd-planeta-hd.m3u8?e=1628025762&hash=z8AQS2z2rcnKSa_WUF-JDg
+
+#THE VOICE
+#EXTINF:-1,tvg-id="TheVoice" tvg-logo="https://logos.kodibg.org/thevoice.png" tvg-name="THE Voice" group-title="Музика",THE Voice
+https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
+
+#City TV
+#EXTINF:-1,tvg-id="City" tvg-logo="https://logos.kodibg.org/city.png" tvg-name="CITY TV" group-title="Музика",CITY TV
+https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
+
+#EXTINF:-1,tvg-id="City" tvg-logo="https://logos.kodibg.org/city.png" tvg-name="CITY TV_2" group-title="Музика",CITY TV_2
+https://s76.gledaitv.co/hls/city-tv/index.m3u8?e=1628023326&hash=-Nx5bOvT67iL4jIGE6wZnA
+
+#FEN TV
+#EXTINF:-1,tvg-id="FENTV" tvg-logo="https://logos.kodibg.org/fentv.png" tvg-name="FEN TV" group-title="Музика",FEN TV
+https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
+
+#Фолклор ТВ
+#EXTINF:-1,tvg-id="FolklorTV" tvg-logo="https://logos.kodibg.org/folklortv.png" tvg-name="Фолклор ТВ" group-title="Музика",Фолклор ТВ
+https://cdn1.mobiletv.bg/T5/folklor/folklor_794613_850k.m3u8
+
+#Тянков Фолк ТВ
+#EXTINF:-1,tvg-id="TiankovFolk" tvg-logo="https://logos.kodibg.org/tiankovfolk.png" tvg-name="Тянков Фолк" group-title="Музика",Тянков Фолк
+https://streamer104.neterra.tv/tiankov/tiankov-folk.smil/playlist.m3u8
+
+#Balkanika Music TV
+#EXTINF:-1,tvg-id="Balkanika" tvg-logo="https://logos.kodibg.org/balkanika.png" tvg-name="Balkanika Music TV" group-title="Музика",Balkanika Music TV
+rtsp://stream.teracomm.bg/balkanika
+
+#DM SAT
+#EXTINF:-1,tvg-id="DMSat" tvg-logo="https://logos.kodibg.org/dmsat.png" tvg-name="DM SAT" group-title="Музика",DM SAT
+https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
+
+#BG Music
+#EXTINF:-1,tvg-id="BGMusicChannel" tvg-logo="https://logos.kodibg.org/bgmusicchannel.png" tvg-name="BG Music" group-title="Музика",BG Music
+https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8
+
+#BOX TV
+#EXTINF:-1,tvg-id="BoxTV" tvg-logo="https://logos.kodibg.org/boxtv.png" tvg-name="BOX TV" group-title="Музика",BOX TV
+https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
+
+#Bn Music
+#EXTINF:-1,tvg-id="" tvg-logo="https://bnmusictv.com/images/logo.png" tvg-name="Bn Music" group-title="Музика",Bn Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
+
+#Radio THE VOICE
+#EXTINF:-1,tvg-id="TheVoice" tvg-logo="https://logos.kodibg.org/thevoice.png" tvg-name="Радио THE Voice" group-title="Радио",Радио THE Voice
+https://bss.neterra.tv/rtplive/thevoiceradio_live.stream/playlist.m3u8
+
+
+#Nick
+#EXTINF:-1,tvg-id="NickJr" tvg-logo="https://logos.kodibg.org/nickjr.png" tvg-name="Nick Jr." group-title="Детски",Nick Jr.
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+
+#Ekids
+#EXTINF:-1,tvg-id="Ekids" tvg-logo="https://logos.kodibg.org/ekids.png" tvg-name="EKIDS" group-title="Детски",EKIDS
+https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
+
+#CartoonNetwork
+#EXTINF:-1,tvg-id="CartoonNetwork" tvg-logo="https://logos.kodibg.org/cartoonnetwork.png" tvg-name="Cartoon Network" group-title="Детски", Cartoon Network
+https://s100.sedemosmitv.com/hls/cartoon-network/index.m3u8?e=1628023209&hash=1QhVf8O9ahZFLsUkJ1mP1Q
+
+
+#Канал 4 -- sega Nostalgia
+#EXTINF:-1,tvg-id="Kanal4" tvg-logo="http://nostalgia.bg/style/top.png" tvg-name="Nostalgia" group-title="Политематични", Nostalgia
+https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8
+
+#EVROPA
+#EXTINF:-1,tvg-id="" tvg-logo="https://logos.kodibg.org/tveurope.png" tvg-name="ТВ Европа" group-title="Новини",ТВ Европа
+https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8
+
+
+#TV+
+#EXTINF:-1,tvg-id="TVPlus" tvg-logo="http://www.tvplus.bg/img/site/logo.png" tvg-name="TV+" group-title="Политематични",TV+
+http://92.247.12.173:6480/live/tvplus/playlist.m3u8
+
+
+#BTK
+#EXTINF:-1,tvg-id="VTK" tvg-logo="https://www.predavatel.com/bg/tv/images/vtk3.png" tvg-name="BTK_1" group-title="Политематични",BВоенен Телевизионен Канал_1
+http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
+#EXTINF:-1,tvg-id="VTK" tvg-logo="https://www.predavatel.com/bg/tv/images/vtk3.png" tvg-name="BTK_2" group-title="Политематични",Военен Телевизионен Канал_2
+http://hls.cdn.bg:2007/fls/vtv/chunklist_w689766971.m3u8?fluxustv.m3u8
+#EXTINF:-1,tvg-id="VTK" tvg-logo="https://www.predavatel.com/bg/tv/images/vtk3.png" tvg-name="BTK_3" group-title="Политематични",Военен Телевизионен Канал_3
+https://s115.sedemosmitv.com/hls/vtk/index.m3u8?e=1628022401&hash=Gv7IenotYH9olZqaohJeXg
+
+#EUROSPORT
+#EXTINF:-1,tvg-id="Eurosport1" tvg-logo="https://logos.kodibg.org/eurosport1.png" tvg-name="Eurosport 1" group-title="Спортни",Eurosport 1
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+
+#EXTINF:-1,tvg-id="Eurosport2" tvg-logo="https://logos.kodibg.org/eurosport2.png" tvg-name="Eurosport 2" group-title="Спортни",Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+
+#Ring BG
+#EXTINF:-1,tvg-id="RING" tvg-logo="https://logos.kodibg.org/ring.png" tvg-name="Ring BG" group-title="Спортни",Ring BG
+https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
+
+#Auto Moto TV
+#EXTINF:-1,tvg-id="" tvg-logo="https://www.predavatel.com/bg/tv/images/100automoto_s.gif" tvg-name="100% Auto Moto TV_1" group-title="Спортни",100% Auto Moto TV_1
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-logo="https://www.predavatel.com/bg/tv/images/100automoto_s.gif" tvg-name="100% Auto Moto TV_2" group-title="Спортни",100% Auto Moto TV_2
+http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
+
+
+#EXTINF:-1,tvg-id="Sportal" tvg-logo="https://logos.kodibg.org/sportalbg.png" tvg-name="Sportal TV" group-title="Спортни",Sportal TV
+https://clb.cdn.bg/sportal/fls//sportal_fullhd/playlist.m3u8?at=49fc0630c1c26ee9c6f55b7e006a598f
+
+
+#National Geographic & Wild
+
+#EXTINF:-1,tvg-id="NatGeo" tvg-logo="https://logos.kodibg.org/natgeo.png" tvg-name="National Geographic" group-title="Документални",National Geographic
+https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
+
+#EXTINF:-1,tvg-id="NatGeoWild" tvg-logo="https://logos.kodibg.org/natgeowild.png" tvg-name="NG WILD" group-title="Документални",NG WILD
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+
+#Discovery
+#EXTINF:-1,tvg-id="Discovery" tvg-logo="https://logos.kodibg.org/discovery.png" tvg-name="Discovery" group-title="Документални",Discovery
+https://cdn1.mobiletv.bg/T3/discovery/discovery_794613_850k.m3u8
+
+#History
+#EXTINF:-1,tvg-id="History" tvg-logo="https://logos.kodibg.org/history.png" tvg-name="History" group-title="Документални",History
+https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
+
+#Fishing & Hunting Channel
+#EXTINF:-1,tvg-id="" tvg-logo="https://raw.githubusercontent.com/harrygg/EPG/master/logos/fishinghunting.png" tvg-name="Fishing & Hunting Channel" group-title="Документални",Fishing & Hunting Channel
+https://cdn1.mobiletv.bg/T5/fh/fh_794613_850k.m3u8
+
+#Light Channel
+#EXTINF:-1,tvg-id="" tvg-logo="https://ltvhu.org/images/logo_bola.png" tvg-name="Light Channel" group-title="Лайфстайл",Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+
+#Travel
+#EXTINF:-1,tvg-id="Travel" tvg-logo="https://www.predavatel.com/bg/tv/images/travel_s.png" tvg-name="Travel Channel" group-title="Лайфстайл",Travel Channel
+https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
+
+#24 Kitchen
+#EXTINF:-1,tvg-id="24kitchen" tvg-logo="https://logos.kodibg.org/24kitchen.png" tvg-name="24 Kitchen" group-title="Лайфстайл",24 Kitchen
+https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
+
+#RTL 
+#EXTINF:-1,tvg-id="" tvg-logo="https://raw.githubusercontent.com/harrygg/EPG/master/logos/rtl.png" tvg-name="RTL" group-title="Политематични",RTL
+https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
+
+#Первый канал 
+#EXTINF:-1,tvg-id="PerviyKanal" tvg-logo="https://logos.kodibg.org/perviykanal.png" tvg-name="Первый канал" group-title="Политематични",Первый канал
+https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
+
+
+
+
+##DRUGI
+#Evolink
+#EXTINF:-1,tvg-id="Evolink" tvg-logo="https://logos.kodibg.org/perviykanal.png" tvg-name="Evolink" group-title="Политематични",Evolink
+http://pri.cdn.bg:2004/fms/_definst_/fms/mp4:Evolink.Final.timelaps.video.mp4/playlist.m3u8
+
+#VidinVest - view-source:http://vidinvest.com/nna_jivo_vidinvest_tv
+#EXTINF:-1,tvg-id="VidinVest" tvg-logo="" tvg-name="VidinVest" group-title="Новини",VidinVest
+http://94.139.221.120/hls/stream.m3u8
+
+#7/8 TV
+#EXTINF:-1,tvg-id="7/8 TV" tvg-logo="http://www.predavatel.com/bg/tv/images/78.png" tvg-name="7/8 TV" group-title="Политематични",7/8 TV
+https://mx86.gledaitv.icu/hls/hd-78-tv-hd.m3u8?e=1628023705&hash=43oPhA7JrKiCZk0Zm2ajBQ
+
+
+
+
+#Испански канали
+#La 1
+#EXTINF:-1,tvg-id="La1" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.multisign2014/custom/CTV_LA1/i/mosca_CTV_LA1.png" tvg-name="La 1" group-title="Политематични",La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#La 2
+#EXTINF:-1,tvg-id="La2" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.multisign2014/custom/CTV_LA2/i/mosca_CTV_LA2.png" tvg-name="La 2" group-title="Политематични",La 2
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
+
+#La 24h
+#EXTINF:-1,tvg-id="24h" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.multisign2014/custom/CTV_C24H/i/mosca_CTV_C24H.png" tvg-name="24h" group-title="Новини",24h
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+
+#A3Series
+#EXTINF:-1,tvg-id="A3Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Atreseries_2020_logo.svg" tvg-name="A3Series" group-title="Филми",A3Series
+https://livestartover-i.akamaized.net/geoa3series/master.m3u8
+
+#TRECE
+#EXTINF:-1,tvg-id="TRECE" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" tvg-name="TRECE" group-title="Политематични", TRECE
+#https://www.cope.es/directos/trece
+
+#El Toro TV
+#EXTINF:-1,tvg-id="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" tvg-name="El Toro TV" group-title="Политематични", El Toro TV
+https://live1-eltorotv.flumotion.com/playlist.m3u8
+
+
+
+# *** UHD-Spain ***
+
+#UHD-Spain
+
+
+#TVE 4k
+
+#EXTINF:-1,tvg-id="TVE4K" tvg-logo="http://player.uhdspain.com/imagenes/logo_uhd.png" tvg-name="TVE4K-HD_HDR" group-title="Политематични",TVE4K-HD_HDR
+http://18.168.248.67/webdav/HDRHD.m3u8
+
+#EXTINF:-1,tvg-id="TVE4K" tvg-logo="http://player.uhdspain.com/imagenes/logo_uhd.png" tvg-name="TVE4K-UHD_HDR" group-title="Политематични",TVE4K-UHD_HDR
+http://18.168.248.67/webdav/HDRUHD.m3u8
+
+#EXTINF:-1,tvg-id="TVE4K" tvg-logo="http://player.uhdspain.com/imagenes/logo_uhd.png" tvg-name="TVE4K_SDR-1" group-title="Политематични",TVE4K_SDR-1
+http://18.168.248.67/webdav/UHDSpain.m3u8
+
+#EXTINF:-1,tvg-id="TVE4K" tvg-logo="http://player.uhdspain.com/imagenes/logo_uhd.png" tvg-name="TVE4K_SDR-2" group-title="Политематични",TVE4K_SDR-2
+http://18.168.248.67/webdav/UHDSpain.mpd
+
+
+
+#Canal Sur Television [Andalucia]
+
+#EXTINF:-1,tvg-id="Canal-Sur" tvg-logo="http://player.uhdspain.com/imagenes/logo_uhd.png" tvg-name="Canal-Sur_SDR-HD" group-title="Политематични",Canal-Sur_SDR-HD
+http://18.168.248.67/webdav/SDRHD.m3u8
+
+#EXTINF:-1,tvg-id="Canal-Sur" tvg-logo="http://player.uhdspain.com/imagenes/logo_uhd.png" tvg-name="Canal-Sur_SDR-UHD" group-title="Политематични",Canal-Sur_SDR-UHD
+http://18.168.248.67/webdav/SDRUHD.m3u8
+
+#EXTINF:-1,tvg-id="Canal-Sur" tvg-logo="http://player.uhdspain.com/imagenes/logo_uhd.png" tvg-name="Canal-Sur_SDR-1" group-title="Политематични",Canal-Sur_SDR-1
+http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
+
+#EXTINF:-1,tvg-id="Canal-Sur" tvg-logo="http://player.uhdspain.com/imagenes/logo_uhd.png" tvg-name="Canal-Sur_SDR-2" group-title="Политематични",Canal-Sur_SDR-2
+http://18.168.248.67/webdav/UHDSpain_SDR.mpd
+
+#EXTINF:-1,tvg-id="Canal-Sur" tvg-logo="http://player.uhdspain.com/imagenes/logo_uhd.png" tvg-name="Canal-Sur_SDR-3" group-title="Политематични",Canal-Sur_SDR-3
+http://18.168.248.67/webdav/UHDSpain_SDRv.mpd
